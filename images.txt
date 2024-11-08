@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jenkins/jenkins:2.466
 gitlab/gitlab-ce:latest
+nginx
