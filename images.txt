@@ -6,4 +6,4 @@ xhofe/alist:latest
 jenkins/jenkins:2.466
 gitlab/gitlab-ce:latest
 nginx
-java8
+openjdk:8-alpine
