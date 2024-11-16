@@ -7,3 +7,4 @@ jenkins/jenkins:2.466
 gitlab/gitlab-ce:latest
 nginx
 openjdk:8-alpine
+nginx:1.27-alpine
