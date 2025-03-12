@@ -8,3 +8,4 @@ gitlab/gitlab-ce:latest
 nginx
 openjdk:8-alpine
 nginx:1.27-alpine
+registry:latest
