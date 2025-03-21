@@ -9,4 +9,3 @@ nginx
 openjdk:8-alpine
 nginx:1.27-alpine
 registry:latest
-wnameless/oracle-xe-11g 
