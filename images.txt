@@ -10,4 +10,5 @@ openjdk:8-alpine
 nginx:1.27-alpine
 registry:latest
 postgis/postgis:15-3.4-alpine
+mysql:8
 
