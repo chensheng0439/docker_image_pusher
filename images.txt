@@ -13,4 +13,5 @@ postgis/postgis:15-3.4-alpine
 mysql:8
 rabbitmq:3.11-management
 onlyoffice/documentserver:latest
+ubuntu:22.04
 
