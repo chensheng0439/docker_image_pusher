@@ -1,2 +1,2 @@
 openjdk:17-jdk-slim
-
+eclipse-temurin:17-jre-jammy
