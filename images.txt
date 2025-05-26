@@ -14,4 +14,5 @@ mysql:8
 rabbitmq:3.11-management
 onlyoffice/documentserver:latest
 ubuntu:22.04
+eclipse-temurin:17-jdk-jammy
 
