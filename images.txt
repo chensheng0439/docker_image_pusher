@@ -1,1 +1,1 @@
-kubeguide/tomcat-app:v1
+registry:2
