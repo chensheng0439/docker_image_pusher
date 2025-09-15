@@ -1,1 +1,1 @@
-postgis/postgis:15-3.4-alpine
+postgis/postgis:latest
