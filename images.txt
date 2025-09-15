@@ -1,2 +1,1 @@
-
-https://github.com/chensheng0439/docker_image_pusher/actions
+postgis/postgis:15-3.4-alpine
