@@ -1,1 +1,1 @@
-kartoza/postgis:14-3.5-arm64
+docker pull kartoza/postgis:15-3.4
